@@ -1,1 +1,3 @@
-#Patika.dev SQL eğitimi ödevleridir.
+# SQL Ödevleri
+Patika.dev SQL eğitimi ödevleridir.
+
